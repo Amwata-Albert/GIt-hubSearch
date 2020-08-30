@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: "Open Sans", Verdana, Geneva, Tahoma, sans-serif;
-    background: #eee;
+    /* background: #eee; */
 }
 .container{
     text-align: center;
